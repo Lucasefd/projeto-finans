@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+header nav div.container div#logo {
+    width: 261px;
+    height: 68px;
+}
+
+#navbarprincipal {
+    list-style: none;
+}
+
+#navbarprincipal li a:hover {
+        color: black;
+}
+
+
